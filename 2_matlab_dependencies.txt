@@ -1,0 +1,7 @@
+# Name						# Version
+'MATLAB'					'9.11'
+'Statistics and Machine Learning Toolbox'	'12.2'
+'Parallel Computing Toolbox'			'7.5'
+'MATLAB Parallel Server'			'7.5'
+'Polyspace Bug Finder'				'3.5
+'drEEM'						'0.6.5'
