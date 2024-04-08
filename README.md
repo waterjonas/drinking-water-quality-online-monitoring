@@ -21,7 +21,7 @@ This is an approach to deal with continuous and automatic drinking water analysi
 
 ## Documentation
 ### Download
-Download both folders [flow_cytometry](/flow_cytometr)
+Download both folders [flow_cytometry](/flow_cytometry/)
 ### I - Fluorescence spectroscopy
 
 
