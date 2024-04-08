@@ -1,4 +1,30 @@
+# Automatic data analysis of fluorescence spectroscopy (PARAFAC) and flow cytometry drinking water quality monitoring
+## Overview
+This is an approach to deal with continuous and automatic drinking water analysis via fluorescence spectroscopy with integrated PARAFAC analysis and flow cytometry. It enables a rapid and reliable status of the organic and microbial composition of the drinking water. Sudden changes in the drinking water quality can be identified and reacted accordingly. 
+
+<img src="schematic_overview.png" width="400">
+
+## Features
+- Read DAT files (fluorescence spectroscopy) and FCS files (flow cytometry) automatically
+- Perform PARAFAC analysis with a six-component model, and count cells automatically
+- Visualize the data automatically
+## Requirements 
+### Hardware
+- Fluorescence spectrometer Aqualog (HORIBA) plus  external sipper for sampling
+- Flow cytometer CyFlow Cube 6 (Sysmex) with integrated measuring software CyView plus external OC-300 add-on (onCyt) for sampling and staining
+### Software
+- Fluorescence spectroscopy PARAFAC analysis is performed via open source [drEEM toolbox](https://dreem.openfluor.org/) [^1]
+- Flow cytometry data analysis is performed via open source [FlowKit toolbox](https://github.com/whitews/FlowKit?tab=readme-ov-file#documentation) [^2]
+
+[^1]: Murphy, K. R., Stedmon, C. A., Graeber, D., and Bro, R. (2013). Fluorescence spectroscopy and multi-way techniques. PARAFAC. Anal. Methods 5, 6557–6566. https://doi:10.1039/c3ay41160e.
+[^2]: White, S., Quinn, J., Enzor, J., Staats, J., Mosier, S. M., Almarode, J., Denny, T. N., Weinhold, K. J., Ferrari, G., & Chan, C. (2021). FlowKit: A Python toolkit for integrated manual and automated cytometry analysis workflows. Frontiers in Immunology, 12. https://doi.org/10.3389/fimmu.2021.768541
+
+## Documentation
 # I - Fluorescence spectroscopy (e.g. C:\Users\Public\fluorescence_spectroscopy)
+
+## Contribution and funding
+
+jkhkjhhk
 
 ## 1. Open 'I_I_start_control.m' in MATLAB.
 1.1 Adjust folder path in line 4.
