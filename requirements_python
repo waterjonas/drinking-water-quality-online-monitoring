@@ -1,0 +1,8 @@
+# Name						# Version
+'bokeh'            '2.4.3'
+'flowkit'          '1.0.1'
+'numpy'            '1.26.4'
+'pandas'           '1.5.3'
+'plotly'           '5.19.0'
+'matplotlib'       '3.8.0'
+'dash'             '2.14.2'
