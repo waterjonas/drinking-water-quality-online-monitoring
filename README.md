@@ -48,5 +48,7 @@ This is an approach to deal with continuous and automatic drinking water analysi
 ### III - Dashboard 
 1. Open [III_app_online_dashboard.py](/III_app_online_dashboard.py) in an Python environment.
 2. Click 'Run' and follow through the request process.
-## Contribution and funding
-jkhkjhhk
+## Comments
+A publication containing this work is in progress.
+
+This work was part of the project "MoDiCon - Online-Monitoring and Digital Control in Drinking Water Distribution Systems" (project number: 02WIL1553A) which was funded by the Federal Ministry of Education and Research (BMBF).
