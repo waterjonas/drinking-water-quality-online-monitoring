@@ -20,9 +20,25 @@ This is an approach to deal with continuous and automatic drinking water analysi
 [^2]: White, S., Quinn, J., Enzor, J., Staats, J., Mosier, S. M., Almarode, J., Denny, T. N., Weinhold, K. J., Ferrari, G., & Chan, C. (2021). FlowKit: A Python toolkit for integrated manual and automated cytometry analysis workflows. Frontiers in Immunology, 12. https://doi.org/10.3389/fimmu.2021.768541
 
 ## Documentation
-### Download
-Download both folders [flow_cytometry](/flow_cytometry/)
+### Preparation
+1. Download both folders [flow_cytometry](/flow_cytometry/) and [fluorescence_spectroscopy](/fluorescence_spectroscopy/) including their containing subfolder and files.
+2. Test data can be downloaded from [examples_raw_data_flow_cytometry](/examples_raw_data_flow_cytometry/) and [examples_raw_data_fluorescence_spectroscopy](/examples_raw_data_fluorescence_spectroscopy/).
+
 ### I - Fluorescence spectroscopy
+1. Open [I_II_start_control.m](/I_I_start_control.m) in MATLAB
+   - Adjust folder path in line 4
+
+2. Open [I_II_PARAFAC.m](/I_II_PARAFAC.m) in MATLAB
+   - Adjust folder path in line 2, 7, 10, 34, 83, 108, and 127
+   - If needed, adjust the number of base data samples in line 15. No changes needed when using the data set provided here.
+
+3. Prepare .xlsx and .txt files
+   - [fingerprints_model6.xlsx](/fluorescence_spectroscopy/fingerprints_model6.xlsx): no changes needed when using the data set provided here.
+   - [model_data_6.xlsx](/fluorescence_spectroscopy/model_data_6.xlsx): delete the old [model_data_6.xlsx](/fluorescence_spectroscopy/model_data_6.xlsx) from your drive, make a copy of [fingerprints_model6.xlsx](/fluorescence_spectroscopy/fingerprints_model6.xlsx) and rename the copy to 'model_data_6.xlsx'. This is the file for your new project.
+   - [sak254.txt](/fluorescence_spectroscopy/sak254.txt): change value to 1.
+   - [sak436.txt](/fluorescence_spectroscopy/sak436.txt): change value to 1.
+
+
 
 
 
