@@ -20,7 +20,9 @@ This is an approach to deal with continuous and automatic drinking water analysi
 [^2]: White, S., Quinn, J., Enzor, J., Staats, J., Mosier, S. M., Almarode, J., Denny, T. N., Weinhold, K. J., Ferrari, G., & Chan, C. (2021). FlowKit: A Python toolkit for integrated manual and automated cytometry analysis workflows. Frontiers in Immunology, 12. https://doi.org/10.3389/fimmu.2021.768541
 
 ## Documentation
-# I - Fluorescence spectroscopy (e.g. C:\Users\Public\fluorescence_spectroscopy)
+### I - Fluorescence spectroscopy
+
+
 
 ## Contribution and funding
 
