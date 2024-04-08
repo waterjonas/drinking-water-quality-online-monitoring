@@ -1,5 +1,0 @@
-hardware fluorescence spectroscopy
-fluorometer Aqualog (HORIBA), analysis are performed via integrated 'Sample Queue Method - Q', applying an external "Sipper" for sampling. readings are exported in three different .dat-files (absorbance, blank fluorescence, sample fluorescence)
-
-hardware flow cytometry
-flow cytometer: CyFlow Cube 6 (Sysmex), analysis are performed via integrated CyView Software, applying the external OC-300 add-on (onCyt) for sampling, and staining 
