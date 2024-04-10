@@ -24,8 +24,8 @@ sample_id = input("\n************************\nPlease select how many parallel s
 sample_id = int(sample_id)
 sample_id_start = input("\n************************\nSample ID of first Sample reading: 1, 2 or 3?\n************************\n")
 sample_id_start = int(sample_id_start)
-folder_fluorescence = input("\n************************\nEnter the location of the folder for fluorescence data/results \n(e.g. C:/Users/Public/fluorescence_spectroscopy/:\n************************\n ")
-folder_fcm = input("\n************************\nEnter the location of the folder for flow cytometry data/results \n(e.g. C:/Users/Public/flow_cytometry/)\n************************\n ")
+folder_fluorescence = input("\n************************\nEnter the location of the folder containing fluorescence data/results (model_data_6.xlsx) \n(e.g. C:/Users/Public/fluorescence_spectroscopy/:\n************************\n ")
+folder_fcm = input("\n************************\nEnter the location of the folder containing flow cytometry data/results (fcm_results.xlsx) \n(e.g. C:/Users/Public/flow_cytometry/)\n************************\n ")
 update = input("\n************************\nEnter the interval for dashboard updates in seconds\n************************\n ")
 
 # Transformation from minutes to milliseconds
