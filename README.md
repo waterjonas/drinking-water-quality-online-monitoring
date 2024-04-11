@@ -1,6 +1,6 @@
 # Automatic data analysis of fluorescence spectroscopy (PARAFAC) and flow cytometry drinking water quality monitoring
 ## Overview
-This is an approach to deal with continuous and automatic drinking water analysis via fluorescence spectroscopy with integrated PARAFAC analysis and flow cytometry. It enables a rapid and reliable status of the organic and microbial composition of the drinking water. Sudden changes in the drinking water quality can be identified and reacted accordingly. 
+This is an approach to deal with continuous and automatic drinking water analysis via fluorescence spectroscopy with integrated PARAFAC analysis and flow cytometry. It enables a rapid and reliable status of the organic and microbial composition of the drinking water. Sudden changes of the drinking water quality can be identified and reacted to accordingly. 
 
 <img src="schematic_overview.png" width="400">
 
