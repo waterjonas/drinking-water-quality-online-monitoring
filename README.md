@@ -5,7 +5,7 @@ This is an approach to deal with continuous and automatic drinking water analysi
 <img src="schematic_overview.png" width="400">
 
 ## Features
-- Read DAT files (fluorescence spectroscopy) and FCS files (flow cytometry) automatically
+- Read .dat files (fluorescence spectroscopy) and .fcs files (flow cytometry) automatically
 - Perform PARAFAC analysis with a six-component model, and count cells automatically
 - Visualize the data automatically
 ## Requirements 
