@@ -14,9 +14,9 @@ This is an approach to deal with continuous and automatic drinking water analysi
 - Flow cytometer CyFlow Cube 6 (Sysmex) with integrated measuring software CyView plus external OC-300 add-on (onCyt) for sampling and staining
 ### Software
 - Fluorescence spectroscopy PARAFAC analysis is performed via open source [drEEM toolbox](https://dreem.openfluor.org/) [^1]
-- MATLAB requirements are listed in [requirements_MATLAB.txt](/requirements_MATLAB.txt)
+- MATLAB requirements are listed in [requirements_MATLAB](/requirements_MATLAB)
 - Flow cytometry data analysis is performed via open source [FlowKit toolbox](https://github.com/whitews/FlowKit?tab=readme-ov-file#documentation) [^2]
-- Anaconda or Python requirements are listed in [requirements_anaconda.txt](/requirements_anaconda.txt) or [requirements_python.txt](/requirements_python.txt), respectively
+- Anaconda or Python requirements are listed in [requirements_anaconda](/requirements_anaconda) or [requirements_python](/requirements_python), respectively
 [^1]: Murphy, K. R., Stedmon, C. A., Graeber, D., and Bro, R. (2013). Fluorescence spectroscopy and multi-way techniques. PARAFAC. Anal. Methods 5, 6557–6566. https://doi:10.1039/c3ay41160e.
 [^2]: White, S., Quinn, J., Enzor, J., Staats, J., Mosier, S. M., Almarode, J., Denny, T. N., Weinhold, K. J., Ferrari, G., & Chan, C. (2021). FlowKit: A Python toolkit for integrated manual and automated cytometry analysis workflows. Frontiers in Immunology, 12. https://doi.org/10.3389/fimmu.2021.768541
 ## Documentation
