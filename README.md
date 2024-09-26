@@ -53,4 +53,4 @@ A publication containing this work is in progress.
 
 This work was part of the project "MoDiCon - Online-Monitoring and Digital Control in Drinking Water Distribution Systems" (project number: 02WIL1553A) which was funded by the Federal Ministry of Education and Research (BMBF).
 ## Acknowledgement
-I thank Johanna and Mehrad for their valuable contribution to this work.
+I thank Johanna, Mehrad, and Anselm for their valuable contribution to this work.
